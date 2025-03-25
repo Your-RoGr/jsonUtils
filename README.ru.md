@@ -1,16 +1,22 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![Code Coverage](https://img.shields.io/codecov/c/github/Your-RoGr/jsonUtils)
 ![License](https://img.shields.io/github/license/Your-RoGr/jsonUtils)
-![GitHub Stars](https://img.shields.io/github/stars/Your-RoGr/jsonUtils?style=social)
 ![Downloads](https://img.shields.io/github/downloads/Your-RoGr/jsonUtils/total)
 ![Go Report Card](https://goreportcard.com/badge/Your-RoGr/jsonUtils)
 ![Latest Release](https://img.shields.io/github/v/release/Your-RoGr/jsonUtils)
+![GitHub Stars](https://img.shields.io/github/stars/Your-RoGr/jsonUtils?style=social)
 
 # jsonUtils
 
 [English](README.md) | [Русский](README.ru.md)
 
 Этот пакет предоставляет утилитарные функции для работы с JSON в Go. Он включает два основных компонента: `FindAndParseJSON` и `numberedJSON`.
+
+- [Особенности](#Особенности)
+- [Использование](#Использование)
+- [Зависимости](#Зависимости)
+- [Установка](#Установка)
+- [Лицензия](#Лицензия)
 
 ## Особенности
 
@@ -82,7 +88,7 @@ if err != nil {
 jsonMap := nj.GetMap()
 ```
 
-## Обработка ошибок
+### Обработка ошибок
 
 Оба компонента включают обработку ошибок для различных сценариев:
 
@@ -97,6 +103,14 @@ jsonMap := nj.GetMap()
 - `errors`
 - `regexp`
 - `fmt`
+
+## Установка
+
+Для установки пакета используйте команду:
+
+```bash
+go get github.com/Your-RoGr/jsonUtils
+```
 
 ## Лицензия
 

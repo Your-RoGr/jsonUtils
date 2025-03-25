@@ -1,9 +1,9 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![Code Coverage](https://img.shields.io/codecov/c/github/Your-RoGr/jsonUtils)
+![Latest Release](https://img.shields.io/github/v/release/Your-RoGr/jsonUtils)
+![Code Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
 ![License](https://img.shields.io/github/license/Your-RoGr/jsonUtils)
 ![Downloads](https://img.shields.io/github/downloads/Your-RoGr/jsonUtils/total)
 ![Go Report Card](https://goreportcard.com/badge/Your-RoGr/jsonUtils)
-![Latest Release](https://img.shields.io/github/v/release/Your-RoGr/jsonUtils)
 ![GitHub Stars](https://img.shields.io/github/stars/Your-RoGr/jsonUtils?style=social)
 
 # jsonUtils

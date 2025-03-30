@@ -1,13 +1,10 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/Your-RoGr/jsonUtils/tree/master)
 [![Latest Release](https://img.shields.io/github/v/release/Your-RoGr/jsonUtils)](https://github.com/Your-RoGr/jsonUtils/releases)
-[![codecov.io][1]][2]
+[![codecov.io](https://codecov.io/gh/Your-RoGr/jsonUtils/branch/master/graph/badge.svg?branch=master)](https://codecov.io/gh/Your-RoGr/jsonUtils?branch=master)
 ![License](https://img.shields.io/github/license/Your-RoGr/jsonUtils)
 ![Downloads](https://img.shields.io/github/downloads/Your-RoGr/jsonUtils/total)
 [![Go Report Card](https://goreportcard.com/badge/Your-RoGr/jsonUtils)](https://goreportcard.com/report/github.com/Your-RoGr/jsonUtils)
 ![GitHub Stars](https://img.shields.io/github/stars/Your-RoGr/jsonUtils?style=social)
-
-[1]: https://codecov.io/gh/Your-RoGr/jsonUtils/branch/master/graph/badge.svg?branch=master "Coverage Badge"
-[2]: https://codecov.io/gh/Your-RoGr/jsonUtils?branch=master "Codecov Status"
 
 # jsonUtils
 
